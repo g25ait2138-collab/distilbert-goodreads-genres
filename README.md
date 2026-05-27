@@ -48,7 +48,7 @@ This project was trained on a **Kaggle Notebook** using a free Kaggle GPU (NVIDI
 ├── utils.py            # Shared helpers (label maps, Dataset class, compute_metrics)
 ├── requirements.txt    # Pinned dependencies
 ├── README.md           # You are here
-└── report.pdf          # Final report (6 pages)
+└── report.pdf          # Final report (10 pages)
 ```
 
 ---
