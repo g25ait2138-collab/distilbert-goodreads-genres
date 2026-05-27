@@ -1,0 +1,33 @@
+# =============================================================================
+# MLOps Assignment 2 - Fine-Tuning DistilBERT for Goodreads Genre Classification
+# Python 3.10+ required
+# =============================================================================
+
+# ---------- Core Deep Learning / Machine Learning ----------
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.14.0
+accelerate>=0.27.0
+scikit-learn>=1.2.0
+
+# ---------- Hugging Face Hub ----------
+huggingface-hub>=0.20.0
+
+# ---------- Experiment Tracking ----------
+wandb>=0.16.0
+
+# ---------- Data Processing ----------
+pandas>=1.5.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# ---------- Evaluation ----------
+evaluate>=0.4.0
+
+# ---------- Utilities ----------
+tqdm>=4.65.0
+
+# ---------- Notebook Support ----------
+# Only required if running the original notebook locally
+jupyter>=1.0.0
+ipykernel>=6.23.0
