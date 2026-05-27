@@ -222,10 +222,4 @@ The final fine-tuned DistilBERT model achieves a measurable improvement over the
 
 ---
 
-## Acknowledgements
 
-- **Hugging Face** — Transformers library and the Model Hub
-- **Weights & Biases** — free experiment tracking for academic projects
-- **UCSD McAuley Lab** — for releasing the Goodreads reviews dataset
-- **Antoniak, Walsh & the AI for Humanists Team** — for the starter notebook
-- **IIT Jodhpur — PGD AI Programme** — for the assignment and guidance
